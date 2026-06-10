@@ -169,87 +169,87 @@
     -webkit-print-color-adjust: exact;
   }
 
-  .print\\:hidden {
+  .print\:hidden {
     display: none !important;
   }
 
-  .print\\:shadow-none {
+  .print\:shadow-none {
     box-shadow: none !important;
   }
 
-  .print\\:p-6 {
+  .print\:p-6 {
     padding: 1.5rem !important;
   }
 
-  .print\\:p-4 {
+  .print\:p-4 {
     padding: 1rem !important;
   }
 
-  .print\\:mb-4 {
+  .print\:mb-4 {
     margin-bottom: 1rem !important;
   }
 
-  .print\\:mb-2 {
+  .print\:mb-2 {
     margin-bottom: 0.5rem !important;
   }
 
-  .print\\:text-xl {
+  .print\:text-xl {
     font-size: 1.25rem !important;
     line-height: 1.75rem !important;
   }
 
-  .print\\:text-base {
+  .print\:text-base {
     font-size: 1rem !important;
     line-height: 1.5rem !important;
   }
 
-  .print\\:text-sm {
+  .print\:text-sm {
     font-size: 0.875rem !important;
     line-height: 1.25rem !important;
   }
 
-  .print\\:text-xs {
+  .print\:text-xs {
     font-size: 0.75rem !important;
     line-height: 1rem !important;
   }
 
-  .print\\:w-10 {
+  .print\:w-10 {
     width: 2.5rem !important;
   }
 
-  .print\\:h-10 {
+  .print\:h-10 {
     height: 2.5rem !important;
   }
 
-  .print\\:w-5 {
+  .print\:w-5 {
     width: 1.25rem !important;
   }
 
-  .print\\:h-5 {
+  .print\:h-5 {
     height: 1.25rem !important;
   }
 
-  .print\\:space-y-4 > * + * {
+  .print\:space-y-4 > * + * {
     margin-top: 1rem !important;
   }
 
-  .print\\:space-y-3 > * + * {
+  .print\:space-y-3 > * + * {
     margin-top: 0.75rem !important;
   }
 
-  .print\\:space-y-2 > * + * {
+  .print\:space-y-2 > * + * {
     margin-top: 0.5rem !important;
   }
 
-  .print\\:gap-4 {
+  .print\:gap-4 {
     gap: 1rem !important;
   }
 
-  .print\\:pl-4 {
+  .print\:pl-4 {
     padding-left: 1rem !important;
   }
 
-  .print\\:break-inside-avoid {
+  .print\:break-inside-avoid {
     break-inside: avoid !important;
     page-break-inside: avoid !important;
   }
